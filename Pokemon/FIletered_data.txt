@@ -1,0 +1,6 @@
+#	Name	Type 1	Type 2	Total	HP	Attack	Defense	Sp. Atk	Sp. Def	Speed	Generation	Legendary
+1	Bulbasaur	Grass	Poison	318	45	49	49	65	65	45	1	False
+43	Oddish	Grass	Poison	320	45	50	55	75	65	30	1	False
+44	Gloom	Grass	Poison	395	60	65	70	85	75	40	1	False
+69	Bellsprout	Grass	Poison	300	50	75	35	70	30	40	1	False
+590	Foongus	Grass	Poison	294	69	55	45	55	55	15	5	False

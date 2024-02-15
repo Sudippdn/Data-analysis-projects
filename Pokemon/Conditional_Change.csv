@@ -1,0 +1,53 @@
+,#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+4,4,Charmander,Sudip,,309,39,52,43,60,50,65,1,False
+5,5,Charmeleon,Sudip,,405,58,64,58,80,65,80,1,False
+6,6,Charizard,Sudip,Flying,534,78,84,78,109,85,100,1,False
+7,6,CharizardMega Charizard X,Sudip,Dragon,634,78,130,111,130,85,100,1,False
+8,6,CharizardMega Charizard Y,Sudip,Flying,634,78,104,78,159,115,100,1,False
+42,37,Vulpix,Sudip,,299,38,41,40,50,65,65,1,False
+43,38,Ninetales,Sudip,,505,73,76,75,81,100,100,1,False
+63,58,Growlithe,Sudip,,350,55,70,45,70,50,60,1,False
+64,59,Arcanine,Sudip,,555,90,110,80,100,80,95,1,False
+83,77,Ponyta,Sudip,,410,50,85,55,65,65,90,1,False
+84,78,Rapidash,Sudip,,500,65,100,70,80,80,105,1,False
+135,126,Magmar,Sudip,,495,65,95,57,100,85,93,1,False
+147,136,Flareon,Sudip,,525,65,130,60,95,110,65,1,False
+158,146,Moltres,Sudip,Flying,580,90,100,90,125,85,90,1,True
+169,155,Cyndaquil,Sudip,,309,39,52,43,60,50,65,2,False
+170,156,Quilava,Sudip,,405,58,64,58,80,65,80,2,False
+171,157,Typhlosion,Sudip,,534,78,84,78,109,85,100,2,False
+236,218,Slugma,Sudip,,250,40,40,40,70,40,20,2,False
+237,219,Magcargo,Sudip,Rock,410,50,50,120,80,80,30,2,False
+259,240,Magby,Sudip,,365,45,75,37,70,55,83,2,False
+263,244,Entei,Sudip,,580,115,115,85,90,75,100,2,True
+270,250,Ho-oh,Sudip,Flying,680,106,130,90,110,154,90,2,True
+276,255,Torchic,Sudip,,310,45,60,40,70,50,45,3,False
+277,256,Combusken,Sudip,Fighting,405,60,85,60,85,60,55,3,False
+278,257,Blaziken,Sudip,Fighting,530,80,120,70,110,70,80,3,False
+279,257,BlazikenMega Blaziken,Sudip,Fighting,630,80,160,80,130,80,100,3,False
+352,322,Numel,Sudip,Ground,305,60,60,40,65,45,35,3,False
+353,323,Camerupt,Sudip,Ground,460,70,100,70,105,75,40,3,False
+354,323,CameruptMega Camerupt,Sudip,Ground,560,70,120,100,145,105,20,3,False
+355,324,Torkoal,Sudip,,470,70,85,140,85,70,20,3,False
+435,390,Chimchar,Sudip,,309,44,58,44,58,44,61,4,False
+436,391,Monferno,Sudip,Fighting,405,64,78,52,78,52,81,4,False
+437,392,Infernape,Sudip,Fighting,534,76,104,71,104,71,108,4,False
+518,467,Magmortar,Sudip,,540,75,95,67,125,95,83,4,False
+542,485,Heatran,Sudip,Steel,600,91,90,106,130,106,77,4,True
+557,498,Tepig,Sudip,,308,65,63,45,45,45,45,5,False
+558,499,Pignite,Sudip,Fighting,418,90,93,55,70,55,55,5,False
+559,500,Emboar,Sudip,Fighting,528,110,123,65,100,65,65,5,False
+572,513,Pansear,Sudip,,316,50,53,48,53,48,64,5,False
+573,514,Simisear,Sudip,,498,75,98,63,98,63,101,5,False
+614,554,Darumaka,Sudip,,315,70,90,45,15,45,50,5,False
+615,555,DarmanitanStandard Mode,Sudip,,480,105,140,55,30,55,95,5,False
+616,555,DarmanitanZen Mode,Sudip,Psychic,540,105,30,105,140,105,55,5,False
+692,631,Heatmor,Sudip,,484,85,97,66,105,66,65,5,False
+721,653,Fennekin,Sudip,,307,40,45,40,62,60,60,6,False
+722,654,Braixen,Sudip,,409,59,59,58,90,70,73,6,False
+723,655,Delphox,Sudip,Psychic,534,75,69,72,114,100,104,6,False
+730,662,Fletchinder,Sudip,Flying,382,62,73,55,56,52,84,6,False
+731,663,Talonflame,Sudip,Flying,499,78,81,71,74,69,126,6,False
+735,667,Litleo,Sudip,Normal,369,62,50,58,73,54,72,6,False
+736,668,Pyroar,Sudip,Normal,507,86,68,72,109,66,106,6,False
+799,721,Volcanion,Sudip,Water,600,80,110,120,130,90,70,6,True
