@@ -14,5 +14,5 @@ S.N.|  Project Name
 5  | [Customer Call](https://github.com/Sudippdn/Data-analysis-projects/tree/main/CUSTOMER%20CALL)
 6  | [World Population](https://github.com/Sudippdn/Data-analysis-projects/tree/main/EDA%20on%20WORLD%20POPULATION)
 7  | [Dragon Real State](https://github.com/Sudippdn/Data-analysis-projects/tree/main/DRAGON%20REAL%20STATE%20PRICE%20PREDICTION)
-8  |[Web Scrping and data analysis](https://github.com/Sudippdn/Data-analysis-projects/tree/main/WEB%20SCRAPING%20AND%20DATA%20ANALYSIS)
+8  |[Web Scraping and data analysis](https://github.com/Sudippdn/Data-analysis-projects/tree/main/WEB%20SCRAPING%20AND%20DATA%20ANALYSIS)
    
